@@ -77,12 +77,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots/gifs of your UI here (optional but recommended)
-
----
-
 ## 🛠️ Project Structure (Recommended)
 
 ```
@@ -98,14 +92,6 @@ src/
 ├── main.jsx
 ├── index.css
 ```
-
----
-
-## ✅ To Do (If Not Yet Added)
-
-- [ ] PWA support
-- [ ] Unit tests with Jest + React Testing Library
-- [ ] Voice input for city name
 
 ---
 
